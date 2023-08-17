@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "id.dwkryd.android.ui"
+    namespace = "io.dwikiriyadi.android.ui"
     compileSdk = 33
 
     defaultConfig {

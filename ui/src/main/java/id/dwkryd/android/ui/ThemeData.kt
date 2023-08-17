@@ -1,6 +1,6 @@
-package id.dwkryd.android.ui
+package io.dwikiriyadi.android.ui
 
-import id.dwkryd.android.ui.components.atoms.buttons.ButtonTheme
+import io.dwikiriyadi.android.ui.components.atoms.buttons.ButtonTheme
 
 data class ThemeData(
     val elevatedButtonTheme: ButtonTheme.Elevated = ButtonTheme.Elevated(),

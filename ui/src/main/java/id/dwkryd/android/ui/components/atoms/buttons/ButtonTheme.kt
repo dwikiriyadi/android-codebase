@@ -1,4 +1,4 @@
-package id.dwkryd.android.ui.components.atoms.buttons
+package io.dwikiriyadi.android.ui.components.atoms.buttons
 
 
 // TODO: temporary need to change

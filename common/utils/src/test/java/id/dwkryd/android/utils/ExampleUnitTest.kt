@@ -1,4 +1,4 @@
-package id.dwkryd.android.utils
+package io.dwikiriyadi.android.utils
 
 import org.junit.Test
 

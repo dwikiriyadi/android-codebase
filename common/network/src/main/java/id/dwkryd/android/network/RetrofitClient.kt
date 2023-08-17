@@ -1,2 +1,2 @@
-package id.dwkryd.android.network
+package io.dwikiriyadi.android.network
 

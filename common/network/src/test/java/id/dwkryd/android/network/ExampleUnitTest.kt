@@ -1,4 +1,4 @@
-package id.dwkryd.android.network
+package io.dwikiriyadi.android.network
 
 import org.junit.Test
 

@@ -1,2 +1,2 @@
-package id.dwkryd.android.ui.components.atoms.chips
+package io.dwikiriyadi.android.ui.components.atoms.chips
 

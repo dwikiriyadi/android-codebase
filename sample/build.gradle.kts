@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "id.dwkryd.android.sample"
+    namespace = "io.dwikiriyadi.android.sample"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "id.dwkryd.android.sample"
+        applicationId = "io.dwikiriyadi.android.sample"
         minSdk = 21
         targetSdk = 33
         versionCode = 1

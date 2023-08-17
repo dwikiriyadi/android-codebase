@@ -1,4 +1,4 @@
-package id.dwkryd.android.ui
+package io.dwikiriyadi.android.ui
 
 import org.junit.Test
 

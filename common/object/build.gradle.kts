@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "id.dwkryd.android.object"
+    namespace = "io.dwikiriyadi.android.object"
     compileSdk = 33
 
     defaultConfig {

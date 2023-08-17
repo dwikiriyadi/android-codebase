@@ -1,2 +1,2 @@
-package id.dwkryd.android.ui.components.atoms.indicators
+package io.dwikiriyadi.android.ui.components.atoms.indicators
 
